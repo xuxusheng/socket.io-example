@@ -1,0 +1,12 @@
+{
+  "name": "socket.io-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xuxusheng/socket.io-example.git",
+  "author": "许盛 <xusheng@antiy.cn>",
+  "license": "MIT",
+  "dependencies": {
+    "example": "^0.0.0",
+    "socket.io": "^2.0.3"
+  }
+}
